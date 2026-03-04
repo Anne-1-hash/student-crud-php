@@ -1,0 +1,15 @@
+# Student Record Management System
+
+A simple CRUD application using PHP and MySQL (Procedural).
+
+## Features
+- Create Student
+- Read Student List
+- Update Student
+- Delete Student
+
+## Tech Used
+- PHP
+- MySQL
+- Bootstrap 5
+- XAMPP
